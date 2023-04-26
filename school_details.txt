@@ -4,4 +4,12 @@ School Name:- Butterfly English Medium School
 Address:- 63/1A, FP34, Ujani Colony, Kumpthanaka, Maharashtra 413003
 SSC Result:- 85%
 
+<<<<<<< HEAD
 Change in master branch
+=======
+HSC School Details
+
+School Name:- D.B.F. Dayanand College of Arts & Science, Solapur
+Address:-  Old Hyderabad Rd, Bhavani Peth, Solapur, Maharashtra 413002
+HSC Result:- 64.92%
+>>>>>>> branch_test

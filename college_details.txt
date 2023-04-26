@@ -3,3 +3,5 @@ Hello, my name is Anish Rajwani and my college details are
 College Name:- Walchand Institute of Technology
 Address:- 634, Walchand Hirachand Marg, Ashok Chowk, Solapur, Maharashtra 413006
 Aggregate Result (6 sems):- 9.4
+
+Changes made on local as well as remote repo
